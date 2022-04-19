@@ -2,3 +2,6 @@
 git add
 git commit -m "0417"
 git push
+
+-------------
+"04/18 md 작성할 때 수정"
